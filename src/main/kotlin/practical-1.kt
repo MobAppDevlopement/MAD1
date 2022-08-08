@@ -18,5 +18,4 @@ fun main() {
     println("Long Value : $c")
     println("Short Value : $d")
     println("Byte Value : $e")
-
 }
