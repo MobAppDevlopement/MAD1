@@ -8,7 +8,6 @@ fun main() {
     var c : Long=3000000000000
     var d : Short=-3456
     var e : Byte=-26
-
     println("Integer Value : $x")
     println("Float Value : $y")
     println("Character Value : $a")
